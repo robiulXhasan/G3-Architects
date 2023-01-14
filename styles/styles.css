@@ -452,9 +452,6 @@ footer {
         left: -20px;
     }
 
-    .sponsors-container img {
-        width: 50%;
-    }
 }
 
 /* making responsive for medium devices / Tab */
@@ -525,7 +522,4 @@ footer {
         left: -20px;
     }
 
-    .sponsors-container img {
-        width: 50%;
-    }
 }
