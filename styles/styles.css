@@ -379,6 +379,7 @@ footer {
     border-radius: 8px;
     color: #424242;
     display: flex;
+    padding: 0 10px;
     align-items: center;
     justify-content: center;
 }
